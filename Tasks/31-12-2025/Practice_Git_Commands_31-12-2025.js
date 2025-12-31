@@ -1,7 +1,7 @@
 console.log("Git Commands")
 console.log("git init -> intialize a new Git Repository")         
 console.log("git status -> show modified/untracked files")   
-console.log("git add . -> satge all changes")
+console.log("git add . -> stage all changes")
 console.log(`git commit -m "messsage" -> save a snapshot with a message`)              
 console.log("git branch -> list branches")        
 console.log("git push origin main -> push local commits to github")          
